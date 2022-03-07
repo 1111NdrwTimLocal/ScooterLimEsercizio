@@ -1,0 +1,134 @@
+body {
+  background-image: url(file:///C:/Users/tona0/Desktop/Coding%20Challenge/img/background.jpg);
+  background-size:  100%;
+  background-size: cover;
+  margin: auto;
+}
+
+.TransBox{
+
+  border-radius:30px;
+  background-color: rgba(0,0,0,0.5);
+  width:1100px;
+  height: 900px;
+  margin:auto;
+  padding-top: 30px;
+  padding-bottom: 40px;
+
+}
+
+
+
+.container{
+  width: 1000px;
+  margin: auto;
+
+
+}
+
+
+.logo{
+  width: 240px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 110px;
+
+
+  }
+
+.logotext{
+  font-size: 25px;
+  color: #34eb3a;
+  font-style: oblique;
+  font-family: "Lucida Console", "Monaco", monospace;
+  text-align: center;
+  margin-top: auto;
+  }
+
+
+
+  #BoxElementiSearch {
+    background-color: #34eb3a;
+    padding: 10px ;
+    text-align:center;
+
+  }
+
+.Pattino1{
+  font-size: 25px;
+  font-family: "Lucida Console", "Monaco", monospace;
+  color: white;
+  padding: 10px;
+
+}
+.Indirizzo1{
+  font-style: normal;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: white;
+  top: auto;
+
+}
+
+.Statodiricaricapattino1{
+  font-size: 18px;
+  font-style: normal;
+  color: white;
+
+}
+
+.RettangoloRicarica1{
+  width:290px;
+  height:30px;
+  background:orange;
+  border-radius: 5px 5px 5px 5px;
+
+}
+.Pattino2{
+  font-size: 25px;
+  font-family: "Lucida Console", "Monaco", monospace;
+  color: white;
+}
+.Indirizzo2{
+  font-style: normal;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: white;
+}
+.Statodiricaricapattino2{
+  font-size: 18px;
+  font-style: normal;
+  color: white;
+}
+.RettangoloRicarica2{
+  width:500px;
+  height:30px;
+  background:#45f542;
+  border-radius: 5px 5px 5px 5px;
+}
+.Pattino3{
+  font-size: 25px;
+  font-family: "Lucida Console", "Monaco", monospace;
+  color: white;
+}
+
+.Indirizzo3{
+  font-style: normal;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: white;
+}
+
+.Statodiricaricapattino3 {
+  font-size: 18px;
+  font-style: normal;
+  color: white;
+}
+
+.RettangoloRicarica3{
+  width:150px;
+  height:30px;
+  background:#f54266;
+  border-radius: 5px 5px 5px 5px;
+}
